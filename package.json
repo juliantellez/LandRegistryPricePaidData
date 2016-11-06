@@ -1,0 +1,12 @@
+{
+  "name": "landRegistryData",
+  "version": "1.0.0",
+  "description": "Englands House Registry data ",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:juliantellez/LandRegistryPricePaidData.git",
+    "type": "git"
+  },
+  "author": "julian <juliantellezmendez@gmail.com>",
+  "license": "MIT"
+}
