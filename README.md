@@ -1,7 +1,21 @@
 # Land Registry Price Paid Data
 
-Price Paid Data tracks property sales in England and Wales submitted to Land Registry for registration. Price Paid Data is based on the raw data released each month.
+Date: Nov 6 2016
 
+Price Paid Data tracks property sales in England and Wales submitted to Land Registry for registration. Price Paid Data is based on the raw data released each month.
+this project is currently in working progress
+
+
+## Install:
+```
+	yarn install
+```
+
+## Links : 
+
+- [API]()
+
+ 
 ## How the data can be used
 The data creates numerous opportunities for individuals and organisations to share it, or combine it with other data to create new applications and services. For example some application developers, data analysts, estate agents and property website owners have used the data to:
 
